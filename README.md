@@ -1,4 +1,4 @@
-# Real Estate Template in Bootstrap 5 and SASS
+# Real Estate Template in Bootstrap 5 and SCSS
 
 ![Image](images/d1.png)
 
